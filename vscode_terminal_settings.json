@@ -1,0 +1,8 @@
+{
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.fontWeightBold": "bold",
+  "terminal.integrated.gpuAcceleration": "on",
+  "terminal.integrated.rendererType": "auto"
+}
